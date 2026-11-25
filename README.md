@@ -34,4 +34,4 @@ Abre `index.html` en el navegador. No necesita instalar nada.
 
 ## Link de acceso al portafolio 
 
-[[H[TML, CSS y JavaScript, sin frameworks ni dependencias. Diseño adaptable a celular, con modo claro y oscuro. Publicado en Firebase Hosting y en GitHub Pages.](https://felipe-franco-ti.web.app/)](https://felipe-franco-ti.web.app/)](https://felipe-franco-ti.web.app/)
+https://felipe-franco-ti.web.app/
